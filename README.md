@@ -29,7 +29,7 @@ The synthetic dataset provides a detailed view of customer interactions, order d
 - Profitability analysis of top brands, e.g., Ray-Ban and Canada Goose.
 - Product category analysis with **Intimates** leading overall sales.
 
-![Sales Overview Screenshot](path/to/sales-overview.png)
+![Sales Overview Screenshot](Screenshots/Screenshot 2025-01-17 124200.png)
 
 ---
 
